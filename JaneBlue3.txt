@@ -1,0 +1,2 @@
+This file is created by Jane . The aim of the file to show conflict 
+on different branches , and how to push from a branch to github . 
