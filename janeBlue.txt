@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is created to practice git push by jane
+=======
 This is created to practice git push by Jane 
+>>>>>>> 2034f27dc543896191ca1de11b98fad0d0481c8e
